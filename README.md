@@ -9,8 +9,8 @@ Version of Opencore: 0.9.2 MOD - No issue with dualboot
 * MAIN: HP version F.27
 * RAM: 8GB
 * SSD:  NVME Toshiba XG6 512GB
-* SOUND: No information
-* Trackpad: No information
+* SOUND: ALC256
+* Trackpad: I2C
 * SMbios: MacBookPro16,3
 
 ## Working:
@@ -24,7 +24,6 @@ Version of Opencore: 0.9.2 MOD - No issue with dualboot
 * Battery - Delayed battery status on menu bar when charging or unplugging
 
 ## Not working ?
-* Touchpad - Maybe not support
 * Blueetoth - Unsupport card
 * Wifi - Unsupport card (I'm using my phone with tethering or wifi usb adapter)
 
